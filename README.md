@@ -1,9 +1,11 @@
 # MySQL-Project
-* SQL Project: Database Management and Query Optimization
+* SQL Project: Pizza Sales Analysis
 
 
 Overview
-This project showcases SQL-based solutions to common database challenges, including data retrieval, optimization, and management. It includes practical examples of SQL queries, data modeling techniques, and performance tuning strategies, aimed at solving real-world scenarios.
+This project analyzes pizza sales data using SQL to uncover patterns, trends, and actionable insights. It demonstrates the application of SQL queries to explore key metrics such as sales trends, customer preferences, and operational performance. The findings are aimed at guiding strategic decisions to enhance business efficiency and growth.
 
 Objective
-To demonstrate proficiency in SQL by solving database problems such as data manipulation, aggregation, and implementing database relationships. The goal is to highlight the importance of structured and efficient queries in modern data-driven applications.
+To use SQL for analyzing pizza sales data, identifying top-selling items, peak sales periods, and customer behavior. The goal is to provide data-driven recommendations for improving marketing strategies, inventory management, and overall operations.
+
+
